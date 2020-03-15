@@ -97,20 +97,22 @@ After creating XML tree of the website and accessing each page of approximately 
 79. jQuery
 
 # Question 2
-necktie.com.hk
-www.necktie.com.hk
-blog.necktie.com.hk
-staging.necktie.com.hk
-app.necktie.com.hk
-admin.necktie.com.hk
-ss.necktie.com.hk
-dev.necktie.com.hk
-help.necktie.com.hk
-necktieinsurance.zendesk.com
-status.necktie.com.hk
-stats.uptimerobot.com
-api.necktie.com.hk
-monitoring.necktie.com.hk
+* bowtie.com.hk
+* blog.bowtie.com.hk
+* staging.bowtie.com.hk
+* app.bowtie.com.hk
+* admin.bowtie.com.hk
+* ss.bowtie.com.hk
+* dev.bowtie.com.hk
+* help.bowtie.com.hk
+* status.bowtie.com.hk
+* api.bowtie.com.hk
+* monitoring.bowtie.com.hk
+* hooks.bowtie.com.hk
+* mb.bowtie.com.hk
+* rds.bowtie.com.hk
+* uptime.bowtie.com.hk
+* wp.bowtie.com.hk 
 
 # Question 3
 1. Hotjar
@@ -139,7 +141,7 @@ monitoring.necktie.com.hk
 # Question 5
 Then this page https://domain.com/rikako will not show up in searches
 
-#Question 6
+# Question 6
 Link: https://vibrant-poincare-d2ce32.netlify.com
 
 
