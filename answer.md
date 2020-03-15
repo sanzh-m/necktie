@@ -97,6 +97,7 @@ After creating XML tree of the website and accessing each page of approximately 
 79. jQuery
 
 # Question 2
+**Some return forbidden or took too long to respond, which is not page doesn't exist** 
 * bowtie.com.hk
 * blog.bowtie.com.hk
 * staging.bowtie.com.hk
